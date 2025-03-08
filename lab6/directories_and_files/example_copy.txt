@@ -1,0 +1,5 @@
+Line 1: Hello, this is an example file.
+Line 2: We are testing line counting.
+Line 3: Each line should be counted.
+Line 4: Python makes it easy!
+Line 5: The program should return 5.
